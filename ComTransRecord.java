@@ -23,7 +23,7 @@ public class ComTransRecord
 			int w=1;
 			System.out.println("**************Someshwar Industries LTD.********************");
 			System.out.println("\n"+"Enter The Four Digit Password");
-			int pass=sc.nextInt();
+			int pass=sc.nextInt(); // Asking For Password which is 3690
 			
 			if(pass==3690)
 			{
